@@ -1,0 +1,14 @@
+{
+  "itemName" : "tt_librahead",
+  "price" : 75,
+  "inventoryIcon" : "icons.png:head",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "headwear",
+  "description" : "Red glasses designed after those that belonged to Neophyte Redglare, a legislacerator born under the Libra sign.",
+  "shortdescription" : "Redglare Glasses",
+  "tooltipKind" : "armor",
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png"  
+}

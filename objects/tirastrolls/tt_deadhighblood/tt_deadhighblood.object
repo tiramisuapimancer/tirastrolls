@@ -1,0 +1,37 @@
+{
+    "objectName" : "tt_deadhighblood",
+    "rarity" : "Common",
+    "category" : "decorative",
+    "price" : 50,
+    "printable" : true,
+  
+    "description" : "The corpse of a seadwelling troll.",
+    "shortdescription" : "Not Eridan",
+    "race" : "tirastrolls",
+    "breakDropOptions" : [
+      [ [ "purpledye", 1, { } ], [ "fleshblock", 6, { } ] ]
+    ],
+  
+    "apexDescription" : "Both vile, and incredibly educational.",
+    "avianDescription" : "... Why is this here?",
+    "floranDescription" : "Why isss it purple?",
+    "glitchDescription" : "Devastated. I have no words...",
+    "humanDescription" : "What the hell?",
+    "hylotlDescription" : "How horrifying.",
+    "novakidDescription" : "What in the damn...",
+    "tirastrollsDescription" : "Holy crap, they did it to him good!",
+  
+  
+    "inventoryIcon" : "tt_deadhighblood.png",
+    "orientations" : [
+      {
+        "image" : "tt_deadhighblood.png:<color>",
+        "imagePosition" : [-8, 0],
+        "frames" : 1,
+        "animationCycle" : 0.5,
+        "anchors" : [ "bottom" ], 
+        "spaceScan" : 0.1
+      }
+    ]
+  }
+  

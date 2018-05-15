@@ -1,0 +1,8 @@
+{
+  "name" : "snauntlusus",
+  "category" : "tirastrollspet",
+  "type" : "body",
+  "frames" : {
+    "body" : "snaunt.png"
+  }
+}

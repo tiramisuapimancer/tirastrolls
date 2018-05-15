@@ -1,0 +1,56 @@
+[
+    {
+      "op": "add",
+      "path": "/converse/apex/tirastrolls",
+      "value": [
+        "Greetings, troll.",
+        "I do not see many of your kind coming in peace.",
+        "Do your horns get caught in your hair often?",
+        "I didn't know humans came in that color.",
+        "Are those bananas attached to your head?"
+      ]
+    },
+    {
+      "op": "add",
+      "path": "/converse/hylotl/tirastrolls",
+      "value": [
+        "I've read that some members of trollkind are capable of living undersea... Are you of that sort?",
+        "The other day I found the most lovely paints for sale, only to discover they were made from troll blood...",
+        "My cousin looks just like your empress.",
+        "How barbaric... Oh, I wasn't talking about you!"
+      ]
+    },
+    {
+      "op": "add",
+      "path": "/converse/avian/tirastrolls",
+      "value": [
+        "I come from a planet which was conquered by trolls' imperial army. I still remember the shrieks of terror from my village as the warships approached."
+      ]
+    },
+    {
+      "op": "add",
+      "path": "/converse/human/tirastrolls",
+      "value": [
+        "You look ill.",
+        "Don't touch me if that paint isn't sealed.",
+        "Whats your favorite color? Wait, is that a rude thing to ask?",
+        "Not going to lie, your queen fish lady is kind of hot."
+      ]
+    },
+    {
+      "op": "add",
+      "path": "/converse/floran/tirastrolls",
+      "value": [
+        "Floran tried troll blood once. Tastesss funny.",
+        "What color are you inside? Floran find out with spear!",
+        "Bugman..."
+      ]
+    },
+    {
+      "op": "add",
+      "path": "/converse/glitch/tirastrolls",
+      "value": [
+        "Concerned. They allowed a troll to join the Protectorate?"
+      ]
+    }
+  ]

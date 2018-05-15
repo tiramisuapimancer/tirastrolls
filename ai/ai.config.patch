@@ -1,0 +1,10 @@
+[{
+		"op" : "add",
+		"path" : "/species/tirastrolls",
+		"value" : {
+			"aiFrames" : "tirastrollsAI.png",
+			"portraitFrames" : "portraits/tirastrollsportrait.png",
+			"staticFrames" : "statictirastrolls.png"	
+		}
+	}
+]

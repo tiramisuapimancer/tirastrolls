@@ -1,0 +1,8 @@
+{
+  "name" : "weasellusus",
+  "category" : "tirastrollspet",
+  "type" : "body",
+  "frames" : {
+    "body" : "weasel.png"
+  }
+}

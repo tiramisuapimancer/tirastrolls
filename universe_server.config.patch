@@ -1,0 +1,17 @@
+[
+	{ "op" : "add",
+		"path" : "/speciesShips/tirastrolls",
+		"value" : [
+		    "/ships/tirastrolls/tirastrollst0.structure",
+			"/ships/tirastrolls/tirastrollst1.structure",
+			"/ships/tirastrolls/tirastrollst2.structure",
+			"/ships/tirastrolls/tirastrollst3.structure",
+			"/ships/tirastrolls/tirastrollst4.structure",
+			"/ships/tirastrolls/tirastrollst5.structure",
+			"/ships/tirastrolls/tirastrollst6.structure",
+			"/ships/tirastrolls/tirastrollst7.structure",
+			"/ships/tirastrolls/tirastrollst8.structure"
+		]
+	}
+]
+

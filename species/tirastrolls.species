@@ -1,0 +1,168 @@
+{
+  "kind" : "tirastrolls",
+	"charCreationTooltip" : {
+	"title" : "tirastrolls",
+	"subTitle" : "Cu",
+	"description" : "Trolls may seem to be grey, horned humans, but their biology is internally far more insectoid. Their myriad blood colors paint a rainbow across their homeworld thanks to the aggressive rule of their Empress."
+  },
+  "nameGen" : [ "/species/tirastrollsmalenamegen.config:names", "/species/tirastrollsfemalenamegen.config:names" ],
+  "ouchNoises" : [ "/sfx/humanoid/tirastrollshurt_male1.ogg", "/sfx/humanoid/tirastrollshurt_female1.ogg" ],
+  "charGenTextLabels" : [ "Pulchritude", "Hair style", "Shirt", "Legwear", "Blood colour", "Horns", "Shirt colour", "Legwear colour", "TROLL", "Personality", "Imagination" ],
+  "skull" : "/humanoid/tirastrolls/dead.png",
+  "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=C02173FF?replace=31a6ffFF=C02173FF",
+  "defaultBlueprints" : {
+    "tier1" : [
+	
+  // Empty Hands
+      { "item" : "flagtirastrolls" },
+	    
+  // Anvil
+      { "item" : "tirastrollstier1head" },
+      { "item" : "tirastrollstier1chest" },
+      { "item" : "tirastrollstier1pants" },
+      { "item" : "tirastrollstier2head" },
+      { "item" : "tirastrollstier2chest" },
+      { "item" : "tirastrollstier2pants" },
+      { "item" : "tirastrollssword" },
+      { "item" : "ironshortsword" },
+      { "item" : "ironbroadsword" },
+      { "item" : "tungstenaxe" },
+      { "item" : "tungstenhammer" },
+  // Anvil2
+      { "item" : "tirastrollstier3head" },
+      { "item" : "tirastrollstier3chest" },
+      { "item" : "tirastrollstier3pants" },
+      { "item" : "tirastrollstier4head" },
+      { "item" : "tirastrollstier4chest" },
+      { "item" : "tirastrollstier4pants" },
+      { "item" : "titaniumdagger" },
+      { "item" : "titaniumspear" },
+      { "item" : "durasteelbroadsword" },
+      { "item" : "durasteelshortsword" },
+  // Anvil3
+      { "item" : "tirastrollstier5ahead" },
+      { "item" : "tirastrollstier5achest" },
+      { "item" : "tirastrollstier5apants" },
+      { "item" : "tirastrollstier6ahead" },
+      { "item" : "tirastrollstier6achest" },
+      { "item" : "tirastrollstier6apants" },
+      { "item" : "tirastrollstier5mhead" },
+      { "item" : "tirastrollstier5mchest" },
+      { "item" : "tirastrollstier5mpants" },
+      { "item" : "tirastrollstier6mhead" },
+      { "item" : "tirastrollstier6mchest" },
+      { "item" : "tirastrollstier6mpants" },
+      { "item" : "tirastrollstier5shead" },
+      { "item" : "tirastrollstier5schest" },
+      { "item" : "tirastrollstier5spants" },
+      { "item" : "tirastrollstier6shead" },
+      { "item" : "tirastrollstier6schest" },
+      { "item" : "tirastrollstier6spants" },
+      { "item" : "aegisaltpistol" },
+      { "item" : "aegisaltbow" },
+      { "item" : "feroziumwand" },
+      { "item" : "feroziumstaff" },
+      { "item" : "violiumshortsword" },
+      { "item" : "violiumbroadsword" },
+  // Furniture Table 2
+      { "item" : "tirastrollsstoragelocker" },
+      { "item" : "tirastrollsshipdoor" },
+      { "item" : "tirastrollsshiphatch" },
+  // Spinning Wheel
+
+      {"item":"tt_arieschest"},
+      {"item":"tt_tauruschest"},
+      {"item":"tt_geminichest"},
+      {"item":"tt_cancerchest"},
+      {"item":"tt_redcancerchest"},
+      {"item":"tt_leochest"},
+      {"item":"tt_virgochest"},
+      {"item":"tt_librachest"},
+      {"item":"tt_scorpiochest"},
+      {"item":"tt_sagittariuschest"},
+      {"item":"tt_capricornchest"},
+      {"item":"tt_aquariuschest"},
+      {"item":"tt_pisceschest"},
+
+
+
+  //Vanilla clothing items
+      {"item": "aviancommonerlegs" },
+      {"item": "monklegs" },
+      {"item": "traineelegs" },
+      {"item": "conceptlegs" },
+      {"item": "coollegs" },
+      {"item": "workoutlegs" },
+      {"item": "sweatervestlegs" },
+      {"item": "traineechest" },
+      {"item": "avianworkershirt" },
+      {"item": "avianfancyshirt" },
+      {"item": "aviancommonershirt" },
+      {"item": "novakidwaistcoat" }
+
+	  ]
+  },
+  
+  "altOptionAsUndyColor" : true,
+  "headOptionAsHairColor" : true, //didnt work
+  "altOptionAsHairColor" : true,
+  "headOptionAsFacialhair" : true, //horns 
+
+      //weird fin shit
+  "altOptionAsFacialMask" : true,
+  "altColorAsFacialMaskSubColor" : true,
+
+  "genders" : [
+    {
+       "name" : "male",
+      "image" : "/interface/title/tirastrollsmaleico.png",
+      "characterImage" : "/interface/title/tirastrollsmale.png",
+      "hair" : [ "male1", "male2", "male3", "male4", "male5", "male6", "male7", "male8", "male9", "male10", "male11", "male12", "male13", "male14", "male15", "male16", "male17", "male18", "male19", "male21", "male22", "male23", "male24", "male25", "male26", "male27", "male28", "male29", "male30", "male31", "male32", "male33", "male34", "male35", "male36", "male37", "male38", "male39", "male40", "male41", "male42", "male43", "male44", "male45", "male46", "male47", "male48", "male49", "male50", "male51", "male52", "male53", "male54", "male55", "male56", "male57", "male58", "male59", "male60", "male61", "male62", "male63", "male64" ],
+      "shirt" : [ "tt_arieschest", "tt_tauruschest", "tt_geminichest", "tt_leochest", "tt_virgochest", "tt_librachest", "tt_scorpiochest", "tt_sagittariuschest", "tt_capricornchest", "tt_aquariuschest", "tt_pisceschest", "avianworkershirt", "avianfancyshirt", "aviancommonershirt", "novakidwaistcoat" ],
+      "pants" : [ "aviancommonerlegs", "monklegs","traineelegs", "conceptlegs", "coollegs", "workoutlegs", "sweatervestlegs"  ],
+      "facialHairGroup" : "horns",
+      "facialHair" : [ "0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "h_torqua", "h_g0", "h_almaya", "h_g1", "h_g2", "h_g4", "h_aradia", "h_tavros", "h_tavrooos", "h_sollux", "h_karkat", "h_nepeta", "h_terezi", "h_vriska", "h_equius", "h_equius2", "h_gamzee", "h_eridan", "h_feferi", "h_amisia", "h_ardata", "h_azdaja", "h_boldir", "h_bronya", "h_chahut", "h_charun", "h_chixie", "h_cirava", "h_daraya", "h_diemen", "h_elwurd", "h_folykl", "h_fozzer", "h_galekh", "h_konyyl", "h_kuprum", "h_lanque", "h_lynera", "h_mallek", "h_marsti", "h_marvus", "h_nihkee", "h_polypa", "h_remele", "h_skylla", "h_soleiltwins", "h_stelsa", "h_tagora", "h_tirona", "h_tegiri", "h_tyzias", "h_vikare", "h_wanshi", "h_whoisthis", "h_whoisthis2", "h_zebede", "h_zebruh", "h_dammek", "h_xefros"],                                                                                                                 
+      "facialMaskGroup" : "fin",
+      "facialMask" : [ "fin" ]
+    },
+    {
+      "name" : "female",
+      "image" : "/interface/title/tirastrollsfemico.png",
+      "characterImage" : "/interface/title/tirastrollsfemale.png",
+      "hair" : [ "fem1", "fem2", "fem3", "fem4", "fem5", "fem6", "fem7", "fem8", "fem9", "fem10", "fem11", "fem12", "fem13", "fem14", "fem15", "fem16", "fem17", "fem18", "fem19", "fem20", "fem21", "fem22", "fem23", "fem24", "fem25", "fem26", "fem27", "fem28", "fem29", "fem30", "fem31", "fem32", "fem33", "fem34", "fem35", "fem36", "fem37", "fem38", "fem39", "fem40", "fem41", "fem42", "fem43", "fem44", "fem45", "fem46", "fem47", "fem48", "fem49", "fem50", "fem51", "fem52", "fem53", "fem54", "fem55", "fem56", "fem57", "fem58", "fem59", "fem60", "fem61", "fem62", "fem63", "fem64" ],
+      "shirt" : [ "tt_arieschest", "tt_tauruschest", "tt_geminichest", "tt_leochest", "tt_virgochest", "tt_librachest", "tt_scorpiochest", "tt_sagittariuschest", "tt_capricornchest", "tt_aquariuschest", "tt_pisceschest", "avianworkershirt", "avianfancyshirt", "aviancommonershirt", "novakidwaistcoat" ],
+      "pants" : [ "aviancommonerlegs", "monklegs","traineelegs", "conceptlegs", "coollegs", "workoutlegs", "sweatervestlegs"  ],
+      "facialHairGroup" : "horns",
+      "facialHair" : [ "0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "h_torqua", "h_g0", "h_almaya", "h_g1", "h_g2", "h_g4", "h_aradia", "h_tavros", "h_tavrooos", "h_sollux", "h_karkat", "h_nepeta", "h_terezi", "h_vriska", "h_equius", "h_equius2", "h_gamzee", "h_eridan", "h_feferi", "h_amisia", "h_ardata", "h_azdaja", "h_boldir", "h_bronya", "h_chahut", "h_charun", "h_chixie", "h_cirava", "h_daraya", "h_diemen", "h_elwurd", "h_folykl", "h_fozzer", "h_galekh", "h_konyyl", "h_kuprum", "h_lanque", "h_lynera", "h_mallek", "h_marsti", "h_marvus", "h_nihkee", "h_polypa", "h_remele", "h_skylla", "h_soleiltwins", "h_stelsa", "h_tagora", "h_tirona", "h_tegiri", "h_tyzias", "h_vikare", "h_wanshi", "h_whoisthis", "h_whoisthis2", "h_zebede", "h_zebruh", "h_dammek", "h_xefros"],       
+      "facialMaskGroup" : "fin",
+      "facialMask" : [ "fin" ]
+    }
+  ],
+
+
+
+  "bodyColor" : [ "" ],
+
+
+
+//HERE BE THE BLOODY COLOORS
+
+  "undyColor" : [
+    //--------MAIN---------------SHADE--------------OUTLINE--------\\ ----weird fin shit
+    { "dc1f00" : "DF3317", "be1b00" : "B40F07", "951500" : "A10000", "7AB0DB" : "CCCCCC00", "4784B4" : "A6A6A600", "2D6590" : "91919100"  }, //rust
+    { "dc1f00" : "DB7017", "be1b00" : "C06517", "951500" : "9C5317", "7AB0DB" : "CCCCCC00", "4784B4" : "A6A6A600", "2D6590" : "91919100"  }, //bronze
+    { "dc1f00" : "DACE33", "be1b00" : "C3B833", "951500" : "A39B32", "7AB0DB" : "CCCCCC00", "4784B4" : "A6A6A600", "2D6590" : "91919100"  }, //gold
+    { "dc1f00" : "B0E703", "be1b00" : "9FCE03", "951500" : "84AD07", "7AB0DB" : "CCCCCC00", "4784B4" : "A6A6A600", "2D6590" : "91919100"  }, //lime
+    { "dc1f00" : "68B81A", "be1b00" : "5BA219", "951500" : "4E8418", "7AB0DB" : "CCCCCC00", "4784B4" : "A6A6A600", "2D6590" : "91919100"  }, //olive
+    { "dc1f00" : "3CE45C", "be1b00" : "3CCD59", "951500" : "3CAE52", "7AB0DB" : "CCCCCC00", "4784B4" : "A6A6A600", "2D6590" : "91919100"  }, //jade
+    { "dc1f00" : "1EBA94", "be1b00" : "1CA483", "951500" : "1B856B", "7AB0DB" : "CCCCCC00", "4784B4" : "A6A6A600", "2D6590" : "91919100"  }, //teal
+    { "dc1f00" : "237FA9", "be1b00" : "217195", "951500" : "1E5E7A", "7AB0DB" : "CCCCCC00", "4784B4" : "A6A6A600", "2D6590" : "91919100"  }, //vriska
+    { "dc1f00" : "463DC1", "be1b00" : "433AAD", "951500" : "3D3792", "7AB0DB" : "CCCCCC00", "4784B4" : "A6A6A600", "2D6590" : "91919100"  }, //indigo
+    { "dc1f00" : "7D28DC", "be1b00" : "7228C4", "951500" : "6227A2", "7AB0DB" : "CCCCCC00", "4784B4" : "A6A6A600", "2D6590" : "91919100" }, //purple
+    { "dc1f00" : "C035D7", "be1b00" : "AC35C0", "951500" : "9233A1", "7AB0DB" : "CCCCCC", "4784B4" : "A6A6A6", "2D6590" : "919191" }, //violet
+    { "dc1f00" : "C61472", "be1b00" : "AE1465", "951500" : "8E1455", "7AB0DB" : "CCCCCC", "4784B4" : "A6A6A6", "2D6590" : "919191" }  //fuschia
+  ],
+  "hairColor" : [
+     {"735E3A": "333333", "A38D59": "515151", "D9C189": "727272", "F7E7B2": "919191" }
+    ]
+}

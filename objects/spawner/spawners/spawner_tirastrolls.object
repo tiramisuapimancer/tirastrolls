@@ -1,0 +1,48 @@
+{
+  "objectName" : "spawnertirastrolls",
+  "colonyTags" : ["misc"],
+  "rarity" : "Common",
+  "description" : "Spawn your very own tirastrolls villager Simply place and then leave the planet or ship. Once you return there will be an NPC.",
+  "shortdescription" : "tirastrolls Spawner",
+  "race" : "tirastrolls",
+  "printable" : false,
+  "category" : "spawner",
+  "price" : 100,
+  "apexDescription" : "Maybe I can reverse engineer this.",
+  "avianDescription" : "What could I possibly want with tirastrollss?",
+  "floranDescription" : "Floran not sssure if want to sssummon tirastrollss.",
+  "glitchDescription" : "Concern. These were all meant to be destroyed.",
+  "humanDescription" : "What could I possibly want with tirastrollss?",
+  "hylotlDescription" : "A tirastrolls spawner. These shouldn't exist.",
+  "tirastrollsDescription" : "Woo.",
+  "inventoryIcon" : "defaulticon.png",
+  "orientations" : [
+    {
+      "image" : "spawner_tirastrolls.png",
+      "imagePosition" : [-8, 0],
+      "direction" : "right",
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "background" ]
+    }
+  ],
+  "scripts" : [ "/objects/spawner/spawners/spawner.lua" ],
+  "scriptDelta" : 1,
+  //6000,
+  "animation" : "/objects/spawner/spawners/tirastrolls.animation",
+  "animationParts" : {
+    "switch" : "spawner_tirastrolls.png"
+  },
+  "animationPosition" : [-8, 0],
+  "inputNodes" : [ ],
+  "outputNodes" : [ ],
+  "spawner" : {
+    "searchRadius" : 32.0,
+    "npcSpeciesOptions" : [ "tirastrolls" ],
+    "npcTypeOptions" : [ "villager" ],
+    "npcParameterOptions" : [
+      {
+        "dropPools" : [ ]
+      }
+    ]
+  }
+}

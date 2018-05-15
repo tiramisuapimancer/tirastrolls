@@ -1,0 +1,23 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : ["teleport", "planetTravel", "systemTravel"],
+      "crewSize" : 4
+    }
+  },
+
+  "backgroundOverlays" : [
+    {
+      "image" : "tirastrollsT4.png",
+      "position" : [15, 10],
+      "fullbright" : true
+    },
+    {
+      "image" : "tirastrollsT4lit.png",
+      "position" : [15, 10]
+    }
+  ],
+
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "tirastrollsT4blocks.png"
+}

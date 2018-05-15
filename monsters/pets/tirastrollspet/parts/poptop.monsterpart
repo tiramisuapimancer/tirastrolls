@@ -1,0 +1,8 @@
+{
+  "name" : "poptoplusus",
+  "category" : "tirastrollspet",
+  "type" : "body",
+  "frames" : {
+    "body" : "poptop.png"
+  }
+}

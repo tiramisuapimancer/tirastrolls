@@ -1,0 +1,46 @@
+{
+  "objectName" : "flagtirastrolls",
+  "colonyTags" : ["tirastrolls"],
+  "printable" : false,
+  "rarity" : "Common",
+  "objectType" : "teleporter",
+  "category" : "teleportMarker",
+  "price" : 70,
+  "radioMessagesOnPickup" : [ "pickupflag" ],
+  
+  "description" : "A teleportation marker. Use ^green;[E]^white; to bookmark a teleportation location.",
+  "shortdescription" : "Troll Banner",
+  "race" : "tirastrolls",
+  "apexDescription" : "A Troll banner. I can use this as a waypoint for teleportation.",
+  "avianDescription" : "This Troll banner can be bookmarked as a destination for my ship teleporter.",
+  "floranDescription" : "Fork makess good point to teleport back to ussing teleporter",
+  "glitchDescription" : "Observant. A small locator module attached to this Troll banner allows it to be bookmarked for teleportation.",
+  "humanDescription" : "This Troll banner can be saved as a location for my teleporter. Then I can return to it at any time.",
+  "hylotlDescription" : "This Troll banner can act as a way point, enabling me to return to this point using a teleporter.",
+  "novakidDescription" : "I can bookmark this Troll banner for quick teleportin'.",
+  "tirastrollsDescription" : "Shame that I have to use this dumb fork for teleporting.",
+  "interactAction" : "OpenTeleportDialog",
+  "interactData" : "/interface/warping/destinationonly.config",
+  "inventoryIcon" : "flagtirastrollsicon.png",
+  "orientations" : [
+    {
+      "image" : "flagtirastrolls.png:<color>.<frame>",
+      "flipImages" : true,
+      "direction" : "left",
+      "imagePosition" : [-17, 0],
+      "frames" : 6,
+      "animationCycle" : 1.0,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "flagtirastrolls.png:<color>.<frame>",
+      "direction" : "right",
+      "imagePosition" : [1, 0],
+      "frames" : 6,
+      "animationCycle" : 1.0,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

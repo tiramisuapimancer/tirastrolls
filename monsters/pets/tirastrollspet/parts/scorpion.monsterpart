@@ -1,0 +1,8 @@
+{
+  "name" : "scorpionlusus",
+  "category" : "tirastrollspet",
+  "type" : "body",
+  "frames" : {
+    "body" : "scorpion.png"
+  }
+}

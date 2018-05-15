@@ -1,0 +1,8 @@
+{
+  "name" : "fennixlusus",
+  "category" : "tirastrollspet",
+  "type" : "body",
+  "frames" : {
+    "body" : "fennix.png"
+  }
+}

@@ -1,0 +1,17 @@
+[
+	{
+		"op": "add",
+		"path": "/initialquests/tirastrolls",
+		"value": [
+			"protectorate"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/pronounGenders/tirastrolls",
+		"value": {
+			"male": "neutral",
+			"female": "neutral"
+		}
+	}
+]
