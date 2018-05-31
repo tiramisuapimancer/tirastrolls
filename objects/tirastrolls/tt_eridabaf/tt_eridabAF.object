@@ -1,0 +1,31 @@
+{
+  "objectName" : "tt_eridabaf",
+  "colonyTags" : ["pretty"],
+  "rarity" : "Legendary",
+  "category" : "actionFigure",
+  "price" : 5000,
+  "printable" : false,
+  "description" : "The label reads, \"Where the hell did this come from?\"",
+  "shortdescription" : "Eridab Figurine",
+
+  "inventoryIcon" : "tt_eridabAF.png",
+  "orientations" : [
+    {
+      "image" : "tt_eridabAF.png:<color>",
+      "imagePosition" : [-2, 0],
+      "direction" : "left",
+      "flipImages" : true,
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "tt_eridabAF.png:<color>",
+      "imagePosition" : [-2, 0],
+      "direction" : "right",
+
+      "spaces" : [ [0, 0], [0, 1] ],
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

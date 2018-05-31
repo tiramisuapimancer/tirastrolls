@@ -4,12 +4,7 @@
     "path": "/tirastrollsStarterTreasure",
     "value": [[0, {
       "fill" : [
-	    {"item" : [ "flashlight" ]},
-        {"item" : [ "torch", 10 ]},
-        {"item" : [ "cannedfood", 1 ]},
-        {"item" : [ "cannedfood", 1 ]},
-        {"item" : [ "cannedfood", 1 ]},
-        {"item" : [ "cannedfood", 1 ]}
+        {"pool" : "starterTreasure"}
       ]
     }]]
   }

@@ -7,7 +7,7 @@
   },
   "nameGen" : [ "/species/tirastrollsmalenamegen.config:names", "/species/tirastrollsfemalenamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/tirastrollshurt_male1.ogg", "/sfx/humanoid/tirastrollshurt_female1.ogg" ],
-  "charGenTextLabels" : [ "Pulchritude", "Hair style", "Shirt", "Legwear", "Blood colour", "Horns", "Shirt colour", "Legwear colour", "TROLL", "Personality", "Imagination" ],
+  "charGenTextLabels" : [ "", "Hair style", "Shirt", "Legwear", "Blood colour", "Horns", "Shirt colour", "Legwear colour", "TROLL", "Personality", "Imagination" ],
   "skull" : "/humanoid/tirastrolls/dead.png",
   "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=C02173FF?replace=31a6ffFF=C02173FF",
   "defaultBlueprints" : {
@@ -18,12 +18,12 @@
 	    
   // Anvil
       { "item" : "tirastrollstier1head" },
+      { "item" : "tirastrollstier1althead" },
       { "item" : "tirastrollstier1chest" },
       { "item" : "tirastrollstier1pants" },
       { "item" : "tirastrollstier2head" },
       { "item" : "tirastrollstier2chest" },
       { "item" : "tirastrollstier2pants" },
-      { "item" : "tirastrollssword" },
       { "item" : "ironshortsword" },
       { "item" : "ironbroadsword" },
       { "item" : "tungstenaxe" },
@@ -104,7 +104,7 @@
   },
   
   "altOptionAsUndyColor" : true,
-  "headOptionAsHairColor" : true, //didnt work
+  "headOptionAsHairColor" : true, //keep this for compatibility with cutebound
   "altOptionAsHairColor" : true,
   "headOptionAsFacialhair" : true, //horns 
 
@@ -117,7 +117,8 @@
        "name" : "male",
       "image" : "/interface/title/tirastrollsmaleico.png",
       "characterImage" : "/interface/title/tirastrollsmale.png",
-      "hair" : [ "male1", "male2", "male3", "male4", "male5", "male6", "male7", "male8", "male9", "male10", "male11", "male12", "male13", "male14", "male15", "male16", "male17", "male18", "male19", "male21", "male22", "male23", "male24", "male25", "male26", "male27", "male28", "male29", "male30", "male31", "male32", "male33", "male34", "male35", "male36", "male37", "male38", "male39", "male40", "male41", "male42", "male43", "male44", "male45", "male46", "male47", "male48", "male49", "male50", "male51", "male52", "male53", "male54", "male55", "male56", "male57", "male58", "male59", "male60", "male61", "male62", "male63", "male64" ],
+      "hair" : [ "male1", "male2", "male3", "male4", "male5", "male6", "male7", "male8", "male9", "male10", "male11", "male12", "male13", "male14", "male15", "male16", "male17", "male18", "male19", "male21", "male22", "male23", "male24", "male25", "male26", "male27", "male28", "male29", "male30", "male31", "male32", "male33", "male34", "male35", "male36", "male37", "male38", "male39", "male40", "male41", "male42", "male43", "male44", "male45", "male46", "male47", "male48", "male49", "male50", "male51", "male52", "male53", "male54", "male55", "male56", "male57", "male58", "male59", "male60", "male61", "male62", "male63", "male64",
+                "c_male1", "c_male2" ],
       "shirt" : [ "tt_arieschest", "tt_tauruschest", "tt_geminichest", "tt_leochest", "tt_virgochest", "tt_librachest", "tt_scorpiochest", "tt_sagittariuschest", "tt_capricornchest", "tt_aquariuschest", "tt_pisceschest", "avianworkershirt", "avianfancyshirt", "aviancommonershirt", "novakidwaistcoat" ],
       "pants" : [ "aviancommonerlegs", "monklegs","traineelegs", "conceptlegs", "coollegs", "workoutlegs", "sweatervestlegs"  ],
       "facialHairGroup" : "horns",
@@ -129,7 +130,8 @@
       "name" : "female",
       "image" : "/interface/title/tirastrollsfemico.png",
       "characterImage" : "/interface/title/tirastrollsfemale.png",
-      "hair" : [ "fem1", "fem2", "fem3", "fem4", "fem5", "fem6", "fem7", "fem8", "fem9", "fem10", "fem11", "fem12", "fem13", "fem14", "fem15", "fem16", "fem17", "fem18", "fem19", "fem20", "fem21", "fem22", "fem23", "fem24", "fem25", "fem26", "fem27", "fem28", "fem29", "fem30", "fem31", "fem32", "fem33", "fem34", "fem35", "fem36", "fem37", "fem38", "fem39", "fem40", "fem41", "fem42", "fem43", "fem44", "fem45", "fem46", "fem47", "fem48", "fem49", "fem50", "fem51", "fem52", "fem53", "fem54", "fem55", "fem56", "fem57", "fem58", "fem59", "fem60", "fem61", "fem62", "fem63", "fem64" ],
+      "hair" : [ "fem1", "fem2", "fem3", "fem4", "fem5", "fem6", "fem7", "fem8", "fem9", "fem10", "fem11", "fem12", "fem13", "fem14", "fem15", "fem16", "fem17", "fem18", "fem19", "fem20", "fem21", "fem22", "fem23", "fem24", "fem25", "fem26", "fem27", "fem28", "fem29", "fem30", "fem31", "fem32", "fem33", "fem34", "fem35", "fem36", "fem37", "fem38", "fem39", "fem40", "fem41", "fem42", "fem43", "fem44", "fem45", "fem46", "fem47", "fem48", "fem49", "fem50", "fem51", "fem52", "fem53", "fem54", "fem55", "fem56", "fem57", "fem58", "fem59", "fem60", "fem61", "fem62", "fem63", "fem64",
+                  "c_fem1", "c_fem2", "c_fem3", "sakura", "sakura_black"   ],
       "shirt" : [ "tt_arieschest", "tt_tauruschest", "tt_geminichest", "tt_leochest", "tt_virgochest", "tt_librachest", "tt_scorpiochest", "tt_sagittariuschest", "tt_capricornchest", "tt_aquariuschest", "tt_pisceschest", "avianworkershirt", "avianfancyshirt", "aviancommonershirt", "novakidwaistcoat" ],
       "pants" : [ "aviancommonerlegs", "monklegs","traineelegs", "conceptlegs", "coollegs", "workoutlegs", "sweatervestlegs"  ],
       "facialHairGroup" : "horns",
@@ -148,21 +150,21 @@
 //HERE BE THE BLOODY COLOORS
 
   "undyColor" : [
-    //--------MAIN---------------SHADE--------------OUTLINE--------\\ ----weird fin shit
-    { "dc1f00" : "DF3317", "be1b00" : "B40F07", "951500" : "A10000", "7AB0DB" : "CCCCCC00", "4784B4" : "A6A6A600", "2D6590" : "91919100"  }, //rust
-    { "dc1f00" : "DB7017", "be1b00" : "C06517", "951500" : "9C5317", "7AB0DB" : "CCCCCC00", "4784B4" : "A6A6A600", "2D6590" : "91919100"  }, //bronze
-    { "dc1f00" : "DACE33", "be1b00" : "C3B833", "951500" : "A39B32", "7AB0DB" : "CCCCCC00", "4784B4" : "A6A6A600", "2D6590" : "91919100"  }, //gold
-    { "dc1f00" : "B0E703", "be1b00" : "9FCE03", "951500" : "84AD07", "7AB0DB" : "CCCCCC00", "4784B4" : "A6A6A600", "2D6590" : "91919100"  }, //lime
-    { "dc1f00" : "68B81A", "be1b00" : "5BA219", "951500" : "4E8418", "7AB0DB" : "CCCCCC00", "4784B4" : "A6A6A600", "2D6590" : "91919100"  }, //olive
-    { "dc1f00" : "3CE45C", "be1b00" : "3CCD59", "951500" : "3CAE52", "7AB0DB" : "CCCCCC00", "4784B4" : "A6A6A600", "2D6590" : "91919100"  }, //jade
-    { "dc1f00" : "1EBA94", "be1b00" : "1CA483", "951500" : "1B856B", "7AB0DB" : "CCCCCC00", "4784B4" : "A6A6A600", "2D6590" : "91919100"  }, //teal
-    { "dc1f00" : "237FA9", "be1b00" : "217195", "951500" : "1E5E7A", "7AB0DB" : "CCCCCC00", "4784B4" : "A6A6A600", "2D6590" : "91919100"  }, //vriska
-    { "dc1f00" : "463DC1", "be1b00" : "433AAD", "951500" : "3D3792", "7AB0DB" : "CCCCCC00", "4784B4" : "A6A6A600", "2D6590" : "91919100"  }, //indigo
-    { "dc1f00" : "7D28DC", "be1b00" : "7228C4", "951500" : "6227A2", "7AB0DB" : "CCCCCC00", "4784B4" : "A6A6A600", "2D6590" : "91919100" }, //purple
-    { "dc1f00" : "C035D7", "be1b00" : "AC35C0", "951500" : "9233A1", "7AB0DB" : "CCCCCC", "4784B4" : "A6A6A6", "2D6590" : "919191" }, //violet
-    { "dc1f00" : "C61472", "be1b00" : "AE1465", "951500" : "8E1455", "7AB0DB" : "CCCCCC", "4784B4" : "A6A6A6", "2D6590" : "919191" }  //fuschia
+    //----HIGHLIGHT-------------MAIN-----------------SHADE--------------OUTLINE-----\\ ----weird fin shit
+    {"f32200":"FF6161", "dc1f00" : "E14040", "be1b00" : "B40F07", "951500" : "a10000",      "7AB0DB" : "CCCCCC00", "4784B4" : "A6A6A600", "2D6590" : "91919100"  }, //rust
+    {"f32200":"D18132", "dc1f00" : "B16112", "be1b00" : "884300", "951500" : "522900",      "7AB0DB" : "CCCCCC00", "4784B4" : "A6A6A600", "2D6590" : "91919100"  }, //bronze
+    {"f32200":"a2a201", "dc1f00" : "7e7e00", "be1b00" : "5b5b00", "951500" : "323200",      "7AB0DB" : "CCCCCC00", "4784B4" : "A6A6A600", "2D6590" : "91919100"  }, //gold
+    {"f32200":"88aa21", "dc1f00" : "688a01", "be1b00" : "4a6300", "951500" : "2d3c00",      "7AB0DB" : "CCCCCC00", "4784B4" : "A6A6A600", "2D6590" : "91919100"  }, //lime
+    {"f32200":"78ab46", "dc1f00" : "588b26", "be1b00" : "386b06", "951500" : "204200",      "7AB0DB" : "CCCCCC00", "4784B4" : "A6A6A600", "2D6590" : "91919100"  }, //olive
+    {"f32200":"40bd7f", "dc1f00" : "209d5f", "be1b00" : "007d3f", "951500" : "004b29",      "7AB0DB" : "CCCCCC00", "4784B4" : "A6A6A600", "2D6590" : "91919100"  }, //jade
+    {"f32200":"35b7b7", "dc1f00" : "169898", "be1b00" : "007373", "951500" : "004646",      "7AB0DB" : "CCCCCC00", "4784B4" : "A6A6A600", "2D6590" : "91919100"  }, //teal
+    {"f32200":"5c9dde", "dc1f00" : "3c7dbe", "be1b00" : "1c5d9e", "951500" : "003c78",      "7AB0DB" : "CCCCCC00", "4784B4" : "A6A6A600", "2D6590" : "91919100"  }, //vriska
+    {"f32200":"748aff", "dc1f00" : "4c69ff", "be1b00" : "2748f2", "951500" : "0728d2",      "7AB0DB" : "CCCCCC00", "4784B4" : "A6A6A600", "2D6590" : "91919100"  }, //indigo
+    {"f32200":"ac72e7", "dc1f00" : "8c52c7", "be1b00" : "6c32a7", "951500" : "4c1287",      "7AB0DB" : "CCCCCC00", "4784B4" : "A6A6A600", "2D6590" : "91919100" }, //purple
+    {"f32200":"cf65cf", "dc1f00" : "af45af", "be1b00" : "8f258f", "951500" : "6f056f",      "7AB0DB" : "CCCCCC", "4784B4" : "A6A6A6", "2D6590" : "919191" }, //violet
+    {"f32200":"f35aa7", "dc1f00" : "d33a87", "be1b00" : "b31a67", "951500" : "890045",      "7AB0DB" : "CCCCCC", "4784B4" : "A6A6A6", "2D6590" : "919191" }  //fuschia
   ],
-  "hairColor" : [
-     {"735E3A": "333333", "A38D59": "515151", "D9C189": "727272", "F7E7B2": "919191" }
+  "hairColor" : [ //for compatibility with the cutebound patch/laziness
+    {"735E3A": "333333", "A38D59": "515151", "D9C189": "727272", "F7E7B2": "919191" }
     ]
 }

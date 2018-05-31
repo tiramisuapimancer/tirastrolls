@@ -1,0 +1,14 @@
+{
+  "itemName" : "tt_condescehead",
+  "price" : 1000,
+  "inventoryIcon" : "icons.png:head",
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "category" : "headwear",
+  "description" : "The mask and tiara of the malevolent Condesce.",
+  "shortdescription" : "Condesce Mask",
+  "tooltipKind" : "armor",
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png"  
+}

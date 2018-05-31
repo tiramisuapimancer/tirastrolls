@@ -1,0 +1,8 @@
+{
+  "name" : "catlusus",
+  "category" : "tirastrollspet",
+  "type" : "body",
+  "frames" : {
+    "body" : "cat.png"
+  }
+}

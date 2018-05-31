@@ -1,0 +1,14 @@
+{
+  "itemName" : "tt_condesceback",
+  "price" : 1000,
+  "inventoryIcon" : "icons.png:back",
+  "rarity" : "Legendary",
+  "category" : "backwear",
+  "description" : "The winding and curving uh...hair. Of the Condesce. Huh.",
+  "shortdescription" : "Condesce Hair",
+  "tooltipKind" : "back",
+
+  "maleFrames" : "back.png",
+  "femaleFrames" : "back.png",
+  "maxStack" : 1
+}

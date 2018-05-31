@@ -1,0 +1,16 @@
+{
+    "name" : "sanskritfemale",
+    "prefixSize" : 2,
+    "endSize" : 2,
+    "sourceNames" : [
+    "AADRIKA", "AARTRIKA", "ADITRI", "AAYUSHI", "AISHANI", "ANTARA",
+    "ARUNIMA", "AVNI", "BHARGAVI", "CHARVI", "CHITRAGANDHA", "DAKSHA",
+    "DEVANGI", "DEVANSHI", "DEVIKA", "ERISHA", "ESHA", "GATHA",
+    "GAURAVI", "GAYATRI", "HASINI", "HRITIKA", "IDHIKA",
+    "JIVANTIKA", "KALYANI", "KASHVI", "KAVERI", "KAVYA",
+    "LAASYA", "LAVI", "LAKSHITA", "MALAVIKA", "MANYA", "NALINI",
+    "NIVEDITA", "OORMILA", "PRABHODHINI", "PRABHODITA", "PARIDHI",
+    "PRATYUSHA", "RITVIKA", "SHAMBHAVI", "SUKANYA", "TALIKA", 
+    "UPASANA", "UTTARIKA", "VAMIKA", "YAALINI", "YAMINI"
+    ]
+  }

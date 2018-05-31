@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "headarmour",
-  "description" : "This scouter headset features a fancy augmented visor.",
-  "shortdescription" : "Scouter's Visor",
+  "description" : "A rust-tinted visor offering little protection. It's kind of impeding your vision, actually.",
+  "shortdescription" : "Rustblood's Visor",
   "tooltipKind" : "armor",
   "maleFrames" : "head.png",
   "femaleFrames" : "head.png",
@@ -36,8 +36,8 @@
   ],
   "itemTags" : [ "tier1armour" ],
   "colorOptions" : [
-    // OLIVE
-    { "ffca8a" : "b5b5b5", "e0975c" : "808080", "a85636" : "91956c", "6f2919" : "4f563c" },
+    // standard
+    { "ffca8a" : "b5b5b5", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY

@@ -8,9 +8,6 @@
     "description" : "The corpse of a seadwelling troll.",
     "shortdescription" : "Not Eridan",
     "race" : "tirastrolls",
-    "breakDropOptions" : [
-      [ [ "purpledye", 1, { } ], [ "fleshblock", 6, { } ] ]
-    ],
   
     "apexDescription" : "Both vile, and incredibly educational.",
     "avianDescription" : "... Why is this here?",
@@ -20,7 +17,18 @@
     "hylotlDescription" : "How horrifying.",
     "novakidDescription" : "What in the damn...",
     "tirastrollsDescription" : "Holy crap, they did it to him good!",
+    "avaliDescription": "It seems a troll's blood is purple just like an Avali's.",
+    "avikanDescription": "The corpse of a Captain.",
+    "drodenDescription":"Analysis complete. Deceased troll, hemotype violet. Recommended action: Biohazard disposal.",
+    "inklingDescription":"I don't think that's ink.",
   
+    "smashable" : true,
+    "smashSounds" : [ "/sfx/objects/meat_break1.ogg", "/sfx/objects/meat_break2.ogg", "/sfx/objects/meat_break3.ogg" ],
+    "smashParticles" : [ { "count" : 8, "particle" : "fleshshard" } ],
+    "smashDropPool" : "tt_deadguydrop",
+    "breakDropPool" : "tt_deadguydrop",
+
+
   
     "inventoryIcon" : "tt_deadhighblood.png",
     "orientations" : [

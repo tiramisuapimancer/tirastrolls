@@ -1,0 +1,874 @@
+[
+    {
+      "op": "replace",
+      "path": "/costume/0",
+      "value": [
+        0,
+        {
+          "pool": [
+            {
+              "weight": 0.001,
+              "item": [
+                "tt_condesceback",
+                1
+              ]
+            },
+            {
+              "weight": 0.001,
+              "item": [
+                "tt_condescechest",
+                1
+              ]
+            },
+            {
+              "weight": 0.001,
+              "item": [
+                "tt_condescelegs",
+                1
+              ]
+            },
+            {
+              "weight": 0.001,
+              "item": [
+                "tt_condescehead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "ethnichead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "bettychest",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "bettyhead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "bettylegs",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "chefhead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "cheflegs",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "chefchest",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "cowboyhead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "cowboychest",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "cowboylegs",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "dress1legs",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "dress1chest",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "fairyback",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "fairychest",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "fairyhead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "fairylegs",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "jumpsuitlegs",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "jumpsuitchest",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "pilotback",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "pilothead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "pilotlegs",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "pilotchest",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "moneybagshead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "moneybagschest",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "moneybagsback",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "moneybagspants",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "neoback",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "neolegs",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "neohead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "neochest",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "pixelherodemolegs",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "pixelherodemochest",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "scientistchest",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "scientisthead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "scientistlegs",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "startracklegs",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "startrackchest",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "strapchest",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "straplegs",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "wedding1chest",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "wedding1legs",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "wedding2head",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "wedding2chest",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "wedding2legs",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "afrowighead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "bearhead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "caphead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "captainshead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "cardboardhead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "coolshadeshead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "clocktophathead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "demonhornshead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "devhead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "dinosaurhead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "dreadfulskullhead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "electroniumhat",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "toptophathead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "herocaphead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "fancaphead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "featherhead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "floppyhathead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "insidioushead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "jesterhead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "gagnosehead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "gladiatorhead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "glasses1head",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "glasses2head",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "glasses3eyes",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "glasses4head",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "glasses5head",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "hobohead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "horsehead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "kathoodhead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "ladyhathead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "meercaphead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "monitorhead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "mughathead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "multicamhat",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "phoenixhat",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "phrygiancaphead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "plaguemasterhead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "plainhoodhead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "plumeknighthead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "rustyskul",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "skullmaskhead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "smartchest",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "smartpants",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "stargazer",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "soulguise",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "summerchest",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "summerpants",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "tophathead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "tricornhat",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "tvhelmethead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "uncathat",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "ushankahead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "valkyriehelm",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "venetianmaskhead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "visorhead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "winterscarfhead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "luchadorhead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "carrothathead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "thinkingcaphead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "boxmanhathead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "scalpionhead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "corobocklehead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "faceleechhead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "pinkeyeparasitehead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "batterypackAAback",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "paperwingsback",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "tribalfeathersback",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "berethead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "bevhead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "sombrerohead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "wighead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "gasmaskhead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "ironavianhelmethead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0003,
+              "item": [
+                "fedorahead",
+                1
+              ]
+            },
+            {
+              "weight": 0.0001,
+              "item": [
+                "doghathead",
+                1
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
