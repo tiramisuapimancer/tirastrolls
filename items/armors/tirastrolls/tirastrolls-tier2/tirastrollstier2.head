@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "headarmour",
-  "description" : "A strong, peaked tungsten helm of great aesthetic value.",
-  "shortdescription" : "Sparrow Helm",
+  "description" : "Don't wear them for too long or you'll burn the colors into your vision. Provides alternate stats.",
+  "shortdescription" : "Psyker Goggles",
   "tooltipKind" : "armor",
   "maleFrames" : "head.png",
   "femaleFrames" : "head.png",
@@ -14,30 +14,30 @@
   "level" : 2,
   "leveledStatusEffects" : [
     {
-      "levelFunction" : "standardArmorLevelPowerMultiplierMultiplier",
+      "levelFunction" : "acceleratorArmorLevelPowerMultiplierMultiplier",
       "stat" : "powerMultiplier",
       "baseMultiplier" : 1.15
     },
     {
-      "levelFunction" : "standardArmorLevelProtectionMultiplier",
+      "levelFunction" : "acceleratorArmorLevelProtectionMultiplier",
       "stat" : "protection",
-      "amount" : 0.3
+      "amount" : 0.2
     },
     {
-      "levelFunction" : "standardArmorLevelMaxEnergyMultiplier",
+      "levelFunction" : "acceleratorArmorLevelMaxEnergyMultiplier",
       "stat" : "maxEnergy",
       "amount" : 3
     },
     {
-      "levelFunction" : "standardArmorLevelMaxHealthMultiplier",
+      "levelFunction" : "acceleratorArmorLevelMaxHealthMultiplier",
       "stat" : "maxHealth",
-      "amount" : 3
+      "amount" : 2
     }
   ],
   "itemTags" : [ "tier2armour" ],
   "colorOptions" : [
-    // LIGHT GREY
-    { "ffca8a" : "cccccc", "e0975c" : "9e9e9e", "a85636" : "616161", "6f2919" : "383838" },
+   // pinque
+   { "ffca8a" : "F35AA7", "e0975c" : "D33A87", "a85636" : "B31A67", "6f2919" : "890045" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY

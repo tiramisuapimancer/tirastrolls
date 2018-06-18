@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "chestarmour",
-  "description" : "An unprotective and uncomfortable armored vest worn by the lowbloods of the ",
+  "description" : "An unprotective and uncomfortable armored vest. You feel less protected in this than you would be completely nude.",
   "shortdescription" : "Lowblood's Chestguard",
   "tooltipKind" : "armor",
   "maleFrames" : {
