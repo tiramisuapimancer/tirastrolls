@@ -5,11 +5,11 @@
   "maxStack" : 1,
   "rarity" : "Uncommon",
   "category" : "chestarmour",
-  "description" : "Enter the battlefield with confidence, encased in this heavy titanium breastplate.",
-  "shortdescription" : "Knight's Breastplate",
+  "description" : "Just one pauldron! Incredible.",
+  "shortdescription" : "Viridescent Chestguard",
   "tooltipKind" : "armor",
   "maleFrames" : {
-    "body" : "chest.png",
+    "body" : "chestm.png",
     "backSleeve" : "bsleeve.png",
     "frontSleeve" : "fsleeve.png"
   },
@@ -43,8 +43,8 @@
   ],
   "itemTags" : [ "tier3armour" ],
   "colorOptions" : [
-    // WHITE
-    { "ffca8a" : "e6e6e6", "e0975c" : "b6b6b6", "a85636" : "7b7b7b", "6f2919" : "373737" },
+    // BLACK
+    { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY

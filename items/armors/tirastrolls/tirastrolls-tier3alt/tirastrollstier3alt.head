@@ -1,12 +1,12 @@
 {
-  "itemName" : "tirastrollstier3head",
+  "itemName" : "tirastrollstier3headalt",
   "price" : 1920,
-  "inventoryIcon" : "icons.png:head",
+  "inventoryIcon" : "icons.png:back",
   "maxStack" : 1,
   "rarity" : "Uncommon",
   "category" : "headarmour",
-  "description" : "Be sharp and strike fast. You'll need to.",
-  "shortdescription" : "Olive Bandana",
+  "description" : "Jade gems for your jade blood.",
+  "shortdescription" : "Jade Tiara",
   "tooltipKind" : "armor",
   "maleFrames" : "head.png",
   "femaleFrames" : "head.png",
@@ -14,30 +14,30 @@
   "level" : 3,
   "leveledStatusEffects" : [
     {
-      "levelFunction" : "standardArmorLevelPowerMultiplierMultiplier",
+      "levelFunction" : "acceleratorArmorLevelPowerMultiplierMultiplier",
       "stat" : "powerMultiplier",
       "baseMultiplier" : 1.15
     },
     {
-      "levelFunction" : "standardArmorLevelProtectionMultiplier",
+      "levelFunction" : "acceleratorArmorLevelProtectionMultiplier",
       "stat" : "protection",
-      "amount" : 0.3
+      "amount" : 0.2
     },
     {
-      "levelFunction" : "standardArmorLevelMaxEnergyMultiplier",
+      "levelFunction" : "acceleratorArmorLevelMaxEnergyMultiplier",
       "stat" : "maxEnergy",
       "amount" : 3
     },
     {
-      "levelFunction" : "standardArmorLevelMaxHealthMultiplier",
+      "levelFunction" : "acceleratorArmorLevelMaxHealthMultiplier",
       "stat" : "maxHealth",
-      "amount" : 3
+      "amount" : 2
     }
   ],
   "itemTags" : [ "tier3armour" ],
   "colorOptions" : [
-    // WHITE
-    { "ffca8a" : "e6e6e6", "e0975c" : "b6b6b6", "a85636" : "7b7b7b", "6f2919" : "373737" },
+    // gold binches
+    { "ffca8a" : "FFF48F", "e0975c" : "E2AF20", "a85636" : "B97C01", "6f2919" : "B97C01" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY
