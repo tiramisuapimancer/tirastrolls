@@ -1,0 +1,21 @@
+{
+  "itemName" : "tt_indigodye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "tt_indigodye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "Indigo Dye",
+
+			"dyeDirectives": {
+				"ffca8a": "748AFF",
+				"e0975c": "4C69FF",
+				"a85636": "2648F2",
+				"6f2919": "0327D2"
+			},
+			"dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

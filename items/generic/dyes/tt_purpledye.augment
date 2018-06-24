@@ -1,0 +1,21 @@
+{
+  "itemName" : "tt_purpledye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "tt_purpledye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "Purple Dye (Troll)",
+
+			"dyeDirectives": {
+				"ffca8a": "AC71E7",
+				"e0975c": "8C52C7",
+				"a85636": "6B30A7",
+				"6f2919": "4C0F87"
+			},
+			"dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

@@ -1,0 +1,21 @@
+{
+  "itemName" : "tt_fuschiadye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "tt_fuschiadye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "Fuschia Dye",
+
+			"dyeDirectives": {
+				"ffca8a": "F35AA7",
+				"e0975c": "D33987",
+				"a85636": "B31967",
+				"6f2919": "890045"
+			},
+			"dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

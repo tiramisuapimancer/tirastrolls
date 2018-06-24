@@ -11,13 +11,23 @@
             {"weight" : 0.6, "item" : "fleshblock"},
             {"weight" : 0.6, "item" : "fleshblock"},
             {"weight" : 0.16, "item" : "fleshblock"},
-            {"weight" : 0.6, "item" : "purpledye"},
+            {"weight" : 0.6, "item" : "tt_violetdye"},
             {"weight" : 0.01, "item" : "tt_eridabaf"}
         ]
       }]
+    ],
+
+
+    "tt_condysetdrop" : [
+      [0, {
+        "fill" : [
+          {"item" : "tt_condescehead" },
+          {"item" : "tt_condescechest" },
+          {"item" : "tt_condescelegs" },
+          {"item" : "tt_condesceback" }
+        ]
+      }]
     ]
-
-
 
 
 

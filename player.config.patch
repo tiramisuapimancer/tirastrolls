@@ -1,3 +1,15 @@
 [
-{ "op" : "add", "path" : "/defaultCodexes/tirastrolls", "value" : [ "protectorate1", "protectorate2" ] }
+{ "op" : "add", "path" : "/defaultCodexes/tirastrolls", "value" : [ "protectorate1", "protectorate2" ] },
+{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "tt_rustdye" } },
+{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "tt_bronzedye" } },
+{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "tt_golddye" } },
+{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "tt_limedye" } },
+{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "tt_olivedye" } },
+{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "tt_jadedye" } },
+{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "tt_tealdye" } },
+{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "tt_ceruleandye" } },
+{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "tt_indigodye" } },
+{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "tt_purpledye" } },
+{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "tt_violetdye" } },
+{ "op" : "add", "path" : "/defaultBlueprints/tier1/-", "value" : { "item" : "tt_fuschiadye" } }
 ]

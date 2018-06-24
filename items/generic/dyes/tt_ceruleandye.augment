@@ -1,0 +1,21 @@
+{
+  "itemName" : "tt_ceruleandye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "tt_vriskdye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "Cerulean Dye",
+
+			"dyeDirectives": {
+				"ffca8a": "5C9DDE",
+				"e0975c": "3B7DBE",
+				"a85636": "1A5D9E",
+				"6f2919": "003B78"
+			},
+			"dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

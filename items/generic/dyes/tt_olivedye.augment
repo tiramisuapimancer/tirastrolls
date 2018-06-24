@@ -1,0 +1,21 @@
+{
+  "itemName" : "tt_olivedye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "tt_olivedye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "Olive Dye",
+
+			"dyeDirectives": {
+				"ffca8a": "78AB47",
+				"e0975c": "588B25",
+				"a85636": "366A03",
+				"6f2919": "1F4200"
+			},
+			"dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

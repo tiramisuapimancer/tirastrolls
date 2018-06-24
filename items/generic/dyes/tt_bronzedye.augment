@@ -1,0 +1,21 @@
+{
+  "itemName" : "tt_bronzedye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "tt_bronzedye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "Bronze Dye",
+
+			"dyeDirectives": {
+				"ffca8a": "D18130",
+				"e0975c": "B1610F",
+				"a85636": "884300",
+				"6f2919": "522800"
+			},
+			"dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

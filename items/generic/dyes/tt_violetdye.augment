@@ -1,0 +1,21 @@
+{
+  "itemName" : "tt_violetdye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "tt_violetdye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "Violet Dye",
+
+			"dyeDirectives": {
+				"ffca8a": "CF64CF",
+				"e0975c": "AF45AF",
+				"a85636": "8F248F",
+				"6f2919": "6E036E"
+			},
+			"dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

@@ -1,0 +1,21 @@
+{
+  "itemName" : "tt_rustdye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "tt_rustdye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "Rust Dye",
+
+			"dyeDirectives": {
+				"ffca8a": "D13030",
+				"e0975c": "B1100F",
+				"a85636": "880001",
+				"6f2919": "520001"
+			},
+			"dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

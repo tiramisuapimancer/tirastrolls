@@ -1,0 +1,21 @@
+{
+  "itemName" : "tt_jadedye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "tt_jadedye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "Jade Dye",
+
+			"dyeDirectives": {
+				"ffca8a": "3FBD7F",
+				"e0975c": "1F9D5F",
+				"a85636": "007D3F",
+				"6f2919": "004B25"
+			},
+			"dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}
