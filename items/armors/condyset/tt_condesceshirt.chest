@@ -1,17 +1,25 @@
 {
-  "itemName" : "tt_condescehead",
-  "price" : 4780,
-  "inventoryIcon" : "icons.png:head",
+  "itemName" : "tt_condescechest",
+  "price" : 7640,
+  "inventoryIcon" : "icons.png:chest",
   "maxStack" : 1,
   "rarity" : "Legendary",
-  "category" : "headwear",
-  "description" : "The mask and tiara of the malevolent Condesce.",
-  "shortdescription" : "Condesce Mask",
+  "category" : "chestwear",
+  "description" : "The tight shirt of the vile Condesce. Gold bands adorn the sleeves.",
+  "shortdescription" : "Condesce Shirt",
   "tooltipKind" : "armor",
-  "maleFrames" : "head.png",
-  "femaleFrames" : "head.png",
-  "mask" : "mask.png",
-"colorOptions" : [    //FUSCHIA
+  "maleFrames" : {
+    "body" : "chestm.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "femaleFrames" : {
+    "body" : "chestf.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+  "colorOptions" : [    //FUSCHIA
 	{ "ffca8a" : "F35AA7", "e0975c" : "D33987", "a85636" : "B31967", "6f2919" : "890045" },
 	// GREY
     { "ffca8a" : "b5b5b5", "e0975c" : "808080", "a85636" : "555555", "6f2919" : "303030" },
@@ -35,5 +43,4 @@
     { "ffca8a" : "d29ce7", "e0975c" : "a451c4", "a85636" : "6a2284", "6f2919" : "320c40" },
     // BROWN
     { "ffca8a" : "ccae7c", "e0975c" : "a47844", "a85636" : "754c23", "6f2919" : "472b13" }
-  ]
-}
+  ] }
