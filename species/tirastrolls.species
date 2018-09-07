@@ -9,7 +9,7 @@
     "ouchNoises" : [ "/sfx/humanoid/tirastrollshurt_male1.ogg", "/sfx/humanoid/tirastrollshurt_female1.ogg" ],
     "charGenTextLabels" : [ "", "Hair style", "Shirt", "Legwear", "Blood colour", "Horns", "Shirt colour", "Legwear colour", "TROLL", "Personality", "Imagination" ],
     "skull" : "/humanoid/tirastrolls/dead.png",
-    "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=C02173FF?replace=31a6ffFF=C02173FF",
+    "effectDirectives" : "?replace=FEFFFFFF=FFEFF6FF?replace=9bd4ffFF=CF6995FF?replace=31a6ffFF=C02173FF",
     "defaultBlueprints" : {
       "tier1" : [
   
