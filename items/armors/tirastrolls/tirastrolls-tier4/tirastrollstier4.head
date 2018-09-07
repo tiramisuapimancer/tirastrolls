@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Uncommon",
   "category" : "headarmour",
-  "description" : "A durasteel helm that is built for defense.",
-  "shortdescription" : "Lake Helm",
+  "description" : "Don't worry about silly things like \"How do my horns fit in this?\". Just don't worry. Please.",
+  "shortdescription" : "Troll Robocop Helm",
   "tooltipKind" : "armor",
   "maleFrames" : "head.png",
   "femaleFrames" : "head.png",
@@ -36,8 +36,8 @@
   ],
   "itemTags" : [ "tier4armour" ],
   "colorOptions" : [
-    // GREY BLUE
-    { "ffca8a" : "9da8af", "e0975c" : "676f83", "a85636" : "3d3d51", "6f2919" : "24232f" },
+    // TEAL
+    { "ffca8a" : "33B7B7", "e0975c" : "139898", "a85636" : "007373", "6f2919" : "004747" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY
