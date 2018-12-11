@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Rare",
   "category" : "headarmour",
-  "description" : "A helmet to protect your brains. Florans use their brains too Just for different stuff than everybody else.",
-  "shortdescription" : "Wiseman's Thinking Hat",
+  "description" : "A fancy tricorn hat. You have no clue where you got the feather from.",
+  "shortdescription" : "Gamblignant Hat",
   "tooltipKind" : "armor",
   "maleFrames" : "head.png",
   "femaleFrames" : "head.png",
@@ -36,8 +36,8 @@
   ],
   "itemTags" : [ "tier5armour" ],
   "colorOptions" : [
-    // LIME GREEN
-    { "ffca8a" : "d1e160", "e0975c" : "9bba3d", "a85636" : "48832f", "6f2919" : "1b4c2a" },
+    // CERULEAN
+    { "ffca8a" : "5C9DDE", "e0975c" : "3B7DBE", "a85636" : "1A5D9E", "6f2919" : "003B78" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY

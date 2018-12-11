@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Rare",
   "category" : "legarmour",
-  "description" : "Upstairs for thinking, downstairs for dancing; even wise Florans have to cut loose.",
-  "shortdescription" : "Wiseman's Loincloth",
+  "description" : "What's in these pantaloons is a sekret.",
+  "shortdescription" : "Gamblignant Pants",
   "tooltipKind" : "armor",
   "maleFrames" : "pants.png",
   "femaleFrames" : "pants.png",
@@ -35,8 +35,8 @@
   ],
   "itemTags" : [ "tier5armour" ],
   "colorOptions" : [
-    // LIME GREEN
-    { "ffca8a" : "d1e160", "e0975c" : "9bba3d", "a85636" : "48832f", "6f2919" : "1b4c2a" },
+    // CERULEAN
+    { "ffca8a" : "5C9DDE", "e0975c" : "3B7DBE", "a85636" : "1A5D9E", "6f2919" : "003B78" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY

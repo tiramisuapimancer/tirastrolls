@@ -5,16 +5,16 @@
   "maxStack" : 1,
   "rarity" : "Rare",
   "category" : "chestarmour",
-  "description" : "Wise people don't get stabbed in the middle, that's what chestguards are for.",
-  "shortdescription" : "Wiseman's Chestguard",
+  "description" : "An armored jacket typically used by Gamblignants, basically troll pirates.",
+  "shortdescription" : "Gamblignant Jacket",
   "tooltipKind" : "armor",
   "maleFrames" : {
-    "body" : "chestm.png",
+    "body" : "chest.png",
     "backSleeve" : "bsleeve.png",
     "frontSleeve" : "fsleeve.png"
   },
   "femaleFrames" : {
-    "body" : "chestf.png",
+    "body" : "chest.png",
     "backSleeve" : "bsleeve.png",
     "frontSleeve" : "fsleeve.png"
   },
@@ -43,8 +43,8 @@
   ],
   "itemTags" : [ "tier5armour" ],
   "colorOptions" : [
-    // LIME GREEN
-    { "ffca8a" : "d1e160", "e0975c" : "9bba3d", "a85636" : "48832f", "6f2919" : "1b4c2a" },
+    // CERULEAN
+    { "ffca8a" : "5C9DDE", "e0975c" : "3B7DBE", "a85636" : "1A5D9E", "6f2919" : "003B78" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY
