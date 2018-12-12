@@ -66,6 +66,9 @@
         { "item" : "feroziumstaff" },
         { "item" : "violiumshortsword" },
         { "item" : "violiumbroadsword" },
+    //furniture table 1
+
+     { "item" : "tt_condesceposter" },
     // Furniture Table 2
         { "item" : "tirastrollsstoragelocker" },
         { "item" : "tirastrollsshipdoor" },

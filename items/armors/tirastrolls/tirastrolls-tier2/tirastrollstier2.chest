@@ -9,12 +9,12 @@
   "shortdescription" : "Psyker Trenchcoat",
   "tooltipKind" : "armor",
   "maleFrames" : {
-    "body" : "chestm.png",
+    "body" : "chest.png",
     "backSleeve" : "bsleeve.png",
     "frontSleeve" : "fsleeve.png"
   },
   "femaleFrames" : {
-    "body" : "chestf.png",
+    "body" : "chest.png",
     "backSleeve" : "bsleeve.png",
     "frontSleeve" : "fsleeve.png"
   },
@@ -43,8 +43,8 @@
   ],
   "itemTags" : [ "tier2armour" ],
   "colorOptions" : [
-    // BLACK
-    { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
+    // GOLD
+    { "ffca8a" : "A2A200", "e0975c" : "7E7E00", "a85636" : "5B5B00", "6f2919" : "353500" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY

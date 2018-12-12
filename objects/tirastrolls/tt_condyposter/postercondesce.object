@@ -1,0 +1,46 @@
+{
+  "objectName" : "tt_condesceposter",
+  "colonyTags" : ["troll","imperial","evil"],
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 70,
+
+  "shortdescription" : "HIC Poster",
+  "description" : "A propoganda poster depicting Her Imperious Condescension.",
+  "race" : "tirastrolls",
+  "learnBlueprintsOnPickup" : [ "tt_condesceposter" ],
+
+  "apexDescription" : "I can't read this language, but it's not hard to imagine what the translator will say.",
+  "avianDescription" : "A red and black poster with an alien empress on it.",
+  "floranDescription" : "Picture of a fish-bug lady. Floran thinks her hair is pretty.",
+  "glitchDescription" : "Intimidated. Propoganda for an alien queen.",
+  "humanDescription" : "Is that an English cipher?",
+  "hylotlDescription" : "Barbaric alien propoganda. I should tear this down.",
+  "novakidDescription" : "\"Obey\". What exactly am I supposed to be obeyin'?",
+  "tirastrollsDescription" : "Another \"OBEY\" poster of Condy. Lovely.",
+
+  //why did i make all of these
+  "felinDescription" : "I don't speak this language but this chick's hot.",
+  "fukirhosDescription": "Unradical! A troll empress!",
+  "avaliDescription" : "Nexus records say this is the immortal dictator of the trolls.",
+  "drodenDescription":"Analysis complete. Alien propoganda. Enemy of the Nomada. Recommended action: destroy.",
+  "avikanDescription":"Alien propoganda... I ought to tear it down.",
+  "saturnDescription":"An alien queen.",
+  "saturn2Description":"An alien queen.",
+  "ponexDescription":"I live my life in pain and misery. My flesh aches with the reverberating echoes of the howls of those whose bodies I have consumed. Reap me, not because I wish for it, but to save others from the abomination I call an existance.",
+  "milliroeDescription": "hot fish lady",
+
+  "inventoryIcon" : "postercondesceicon.png",
+  "orientations" : [
+    {
+      "image" : "postercondesce.png:<color>",
+      "imagePosition" : [-8, -16],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}
