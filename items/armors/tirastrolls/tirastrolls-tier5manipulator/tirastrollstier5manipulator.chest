@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Rare",
   "category" : "chestarmour",
-  "description" : "A chestguard to protect you from people who get angry when you eat other people.",
-  "shortdescription" : "Cannibal's Chestguard",
+  "description" : "THIS USED TO HAVE SLEEVES",
+  "shortdescription" : "Rufiannihalator's Chestguard",
   "tooltipKind" : "armor",
   "maleFrames" : {
     "body" : "chestm.png",
@@ -43,8 +43,8 @@
   ],
   "itemTags" : [ "tier5armour" ],
   "colorOptions" : [
-    // TEAL
-    { "ffca8a" : "a8e6e2", "e0975c" : "4facb2", "a85636" : "30636c", "6f2919" : "233c43" },
+    //indego
+    { "ffca8a" : "748AFF", "e0975c" : "4C69FF", "a85636" : "2648F2", "6f2919" : "0327D2" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY

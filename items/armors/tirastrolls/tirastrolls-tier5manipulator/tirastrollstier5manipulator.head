@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Rare",
   "category" : "headarmour",
-  "description" : "Cursed with a friendly and appealing face? Cover it up with this horrifying mask.",
-  "shortdescription" : "Cannibal's Mask",
+  "description" : "IT'S A MASK AND IT'S A GOGGLES",
+  "shortdescription" : "Rufiannihalator's Maskgoggles",
   "tooltipKind" : "armor",
   "maleFrames" : "head.png",
   "femaleFrames" : "head.png",
@@ -35,9 +35,8 @@
     }
   ],
   "itemTags" : [ "tier5armour" ],
-  "colorOptions" : [
-    // TEAL
-    { "ffca8a" : "a8e6e2", "e0975c" : "4facb2", "a85636" : "30636c", "6f2919" : "233c43" },
+  "colorOptions" : [ //indego
+    { "ffca8a" : "748AFF", "e0975c" : "4C69FF", "a85636" : "2648F2", "6f2919" : "0327D2" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY
