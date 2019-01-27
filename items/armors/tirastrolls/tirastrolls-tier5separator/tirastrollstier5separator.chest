@@ -5,16 +5,16 @@
   "maxStack" : 1,
   "rarity" : "Rare",
   "category" : "chestarmour",
-  "description" : "For the silent warrior who lurks in wait.",
-  "shortdescription" : "Gatherer's Chestpiece",
+  "description" : "jevil",
+  "shortdescription" : "Subjugglator's Chestpiece",
   "tooltipKind" : "armor",
   "maleFrames" : {
-    "body" : "chest.png",
+    "body" : "chestm.png",
     "backSleeve" : "bsleeve.png",
     "frontSleeve" : "fsleeve.png"
   },
   "femaleFrames" : {
-    "body" : "chest.png",
+    "body" : "chestf.png",
     "backSleeve" : "bsleeve.png",
     "frontSleeve" : "fsleeve.png"
   },
@@ -43,8 +43,11 @@
   ],
   "itemTags" : [ "tier5armour" ],
   "colorOptions" : [
-    // PURPLE
-    { "ffca8a" : "d29ce7", "e0975c" : "a451c4", "a85636" : "6a2284", "6f2919" : "320c40" },
+    // troll purple
+    { "ffca8a": "AC71E7",
+      "e0975c": "8C52C7",
+      "a85636": "6B30A7",
+      "6f2919": "4C0F87" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY
