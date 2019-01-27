@@ -1,11 +1,11 @@
 {
   "author" : "trolls team",
   "description" : "Join the Discord server for updates and help: https://discord.gg/t4PQSm5\n\n  > Steam User: Examine Workshop\n\nYou've found a wonderful TROLL RACE MOD!\n\nFeaturing:\nFull character creation with over 100 horns and a few custom hairpieces. You'll also get a fin if you choose to be a seadweller\nCustom ship pets (various lusii of in-game monsters)\nArmor up to tier 4 including additional headpieces with alternate stats per every tier\n12 blood-color dyes, 1 pixel each in the spinning wheel (all races)\nAnd a ton of minor little things to be found like cosmetics\n\nActive development. Not abandoned.\n\nCurrently has Frackin' Races and FU BYOS support!\n\n Check out TS's Cherubim race! https://steamcommunity.com/sharedfiles/filedetails/?id=1359779590 ",
-  "friendlyName" : "Housetrapped Goblin Race (Homestuck Trolls)",
+  "friendlyName" : "Trollbound",
   "link" : "steam://url/CommunityFilePage/1301907771",
   "name" : "tirastrolls",
   "path" : ".",
   "steamContentId" : "1301907771",
   "tags" : "Species|Armor and Clothes",
-  "version" : "0.4.7"
+  "version" : "0.5"
 }
