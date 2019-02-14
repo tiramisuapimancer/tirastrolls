@@ -173,7 +173,11 @@
       {"f32200":"748aff", "dc1f00" : "4c69ff", "be1b00" : "2748f2", "951500" : "0728d2",      "7AB0DB" : "CCCCCC00", "4784B4" : "A6A6A600", "2D6590" : "91919100"  }, //indigo
       {"f32200":"ac72e7", "dc1f00" : "8c52c7", "be1b00" : "6c32a7", "951500" : "4c1287",      "7AB0DB" : "CCCCCC00", "4784B4" : "A6A6A600", "2D6590" : "91919100" }, //purple
       {"f32200":"cf65cf", "dc1f00" : "af45af", "be1b00" : "8f258f", "951500" : "6f056f",      "7AB0DB" : "CCCCCC", "4784B4" : "A6A6A6", "2D6590" : "919191" }, //violet
-      {"f32200":"f35aa7", "dc1f00" : "d33a87", "be1b00" : "b31a67", "951500" : "890045",      "7AB0DB" : "CCCCCC", "4784B4" : "A6A6A6", "2D6590" : "919191" }  //fuschia
+      {"f32200":"f35aa7", "dc1f00" : "d33a87", "be1b00" : "b31a67", "951500" : "890045",      "7AB0DB" : "CCCCCC", "4784B4" : "A6A6A6", "2D6590" : "919191" },  //fuschia
+
+      //valentines day special mutant colors
+      {"f32200":"FFCEE5", "dc1f00" : "F7AECF", "be1b00" : "F27AB3", "951500" : "C14D81",      "7AB0DB" : "CCCCCC00", "4784B4" : "A6A6A600", "2D6590" : "91919100"  }, //pink without fin
+      {"f32200":"FFCEE5", "dc1f00" : "F7AECF", "be1b00" : "F27AB3", "951500" : "151515",      "7AB0DB" : "CCCCCC", "4784B4" : "A6A6A6", "2D6590" : "919191" } //pink with fin
     ],
     "hairColor" : [ //for compatibility with the cutebound patch/laziness
       {"735E3A": "151515", "A38D59": "383838", "D9C189": "555555", "F7E7B2": "838383" }
