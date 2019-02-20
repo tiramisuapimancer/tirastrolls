@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Legendary",
   "category" : "legarmour",
-  "description" : "Cut with room to spare. Perfect for a shifty individual.",
-  "shortdescription" : "Gambler's Pants",
+  "description" : "These boots sacrifice coverage for density, making their wearer a sturdy pillar impossible to topple.",
+  "shortdescription" : "Seadweller's Boots",
   "tooltipKind" : "armor",
   "maleFrames" : "pants.png",
   "femaleFrames" : "pants.png",
@@ -35,8 +35,11 @@
   ],
   "itemTags" : [ "tier6armour" ],
   "colorOptions" : [
-    // BLUE
-    { "ffca8a" : "96cbe7", "e0975c" : "5588d4", "a85636" : "344495", "6f2919" : "1a1c51" },
+    // violet
+    { "ffca8a": "CF64CF",
+      "e0975c": "AF45AF",
+      "a85636": "8F248F",
+      "6f2919": "6E036E" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY

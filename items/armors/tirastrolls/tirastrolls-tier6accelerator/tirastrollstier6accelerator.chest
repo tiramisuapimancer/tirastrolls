@@ -5,16 +5,16 @@
   "maxStack" : 1,
   "rarity" : "Legendary",
   "category" : "chestarmour",
-  "description" : "Got a risky venture planned? Be sure to take this gambler's vest along.",
-  "shortdescription" : "Gambler's Vest",
+  "description" : "Despite being extremely heavy, this armor can move swiftly through bodies of liquid thanks to the paddle-like pieces adorning it’s sleeves.",
+  "shortdescription" : "Seadweller's Chestpiece",
   "tooltipKind" : "armor",
   "maleFrames" : {
-    "body" : "chest.png",
+    "body" : "chestm.png",
     "backSleeve" : "bsleeve.png",
     "frontSleeve" : "fsleeve.png"
   },
   "femaleFrames" : {
-    "body" : "chest.png",
+    "body" : "chestf.png",
     "backSleeve" : "bsleeve.png",
     "frontSleeve" : "fsleeve.png"
   },
@@ -43,8 +43,11 @@
   ],
   "itemTags" : [ "tier6armour" ],
   "colorOptions" : [
-    // BLUE
-    { "ffca8a" : "96cbe7", "e0975c" : "5588d4", "a85636" : "344495", "6f2919" : "1a1c51" },
+    // violet
+    { "ffca8a": "CF64CF",
+      "e0975c": "AF45AF",
+      "a85636": "8F248F",
+      "6f2919": "6E036E" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY
