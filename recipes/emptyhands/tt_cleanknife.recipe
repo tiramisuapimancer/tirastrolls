@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "tt_bloodyknife", "count" : 1 },
+    { "item" : "liquidwater", "count" : 10 }
+  ],
+  "output" : {
+    "item" : "tt_cleanknife",
+     
+    "count" : 1
+  },
+  "groups" : [ "plain", "all" ]
+}
