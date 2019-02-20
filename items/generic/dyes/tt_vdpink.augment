@@ -1,17 +1,17 @@
 {
-  "itemName" : "tt_limedye",
+  "itemName" : "tt_vdpinkdye",
   "price" : 1,
   "rarity" : "Common",
   "category" : "clothingDye",
-  "inventoryIcon" : "tt_limedye.png",
+  "inventoryIcon" : "tt_vdpinkdye.png",
   "description" : "This horrendously forbidden dye can be applied to a piece of armour or clothing with a right-click.",
-  "shortdescription" : "Lime Dye",
+  "shortdescription" : "Lovely Pink Dye",
 
 			"dyeDirectives": {
-				"ffca8a": "88AA20",
-				"e0975c": "688A00",
-				"a85636": "4A6300",
-				"6f2919": "2C3B00"
+				"ffca8a": "FFCEE5",
+				"e0975c": "F7AECF",
+				"a85636": "F27AB3",
+				"6f2919": "C14D81"
 			},
 			"dyeColorIndex": false,
 

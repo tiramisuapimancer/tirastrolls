@@ -5,7 +5,7 @@
   "category" : "clothingDye",
   "inventoryIcon" : "tt_purpledye.png",
   "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
-  "shortdescription" : "Purple Dye (Troll)",
+  "shortdescription" : "Clown Dye",
 
 			"dyeDirectives": {
 				"ffca8a": "AC71E7",
