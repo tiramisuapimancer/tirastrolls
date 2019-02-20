@@ -68,6 +68,8 @@
         { "item" : "feroziumstaff" },
         { "item" : "violiumshortsword" },
         { "item" : "violiumbroadsword" },
+
+        { "item" : "tt_solariumtrident"},
     //furniture table 1
 
      { "item" : "tt_condesceposter" },

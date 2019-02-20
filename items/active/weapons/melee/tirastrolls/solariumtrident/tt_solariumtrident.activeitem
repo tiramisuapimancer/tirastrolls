@@ -1,22 +1,22 @@
 {
-  "itemName" : "titaniumspear",
+  "itemName" : "tt_solariumtrident",
   "price" : 960,
-  "level" : 3,
+  "level" : 6,
   "maxStack" : 1,
-  "rarity" : "Uncommon",
-  "description" : "A spear made for keeping enemies at bay.",
-  "shortdescription" : "Titanium Spear",
+  "rarity" : "Legendary",
+  "description" : "An eye-searer.",
+  "shortdescription" : "Solarium 1x3dent",
   "tooltipKind" : "sword",
   "category" : "spear",
   "twoHanded" : true,
   "itemTags" : ["weapon","melee","spear"],
 
-  "inventoryIcon" : "titaniumspear.png",
+  "inventoryIcon" : "tt_solariumtrident.png",
 
   "animation" : "/items/active/weapons/melee/spear/spear.animation",
   "animationParts" : {
     "handle" : "",
-    "blade" : "titaniumspear.png"
+    "blade" : "tt_solariumtrident.png"
   },
   "animationCustom" : {
     "sounds" : {
@@ -26,17 +26,30 @@
 
   "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
 
-  "elementalType" : "physical",
+  "elementalType" : "fire",
 
   "aimOffset" : -1.0,
 
   "primaryAbilityType" : "spearstab",
   "primaryAbility" : {
-    "fireTime" : 0.95,
-    "baseDps" : 10.5
+    "fireTime" : 0.8,
+    "baseDps" : 11.5,
+
+    "damageConfig" : 
+    {"statusEffects" : [ "burning" ],
+    "damageSourceKind" : "firespear",
+    "knockback" : 20
+      }
   },
 
-  "altAbilityType" : "spearspin",
+  "altAbilityType" : "rocketspear",
+  "altAbility" : {
+    "name":"Freezing Fire",
+    "elementalConfig" : {"fire" : {"projectileType" : "icethrower"}, //the weapon overrides the fire-type rocket spear ability with icethrower
+    "boostForce":69420
+
+  }
+   },
 
   "builder" : "/items/buildscripts/buildunrandweapon.lua"
 }
