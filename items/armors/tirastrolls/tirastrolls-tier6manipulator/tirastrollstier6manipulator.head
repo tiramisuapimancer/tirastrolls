@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Legendary",
   "category" : "headarmour",
-  "description" : "A clockwork hat. To remind your enemies of the relentless march of time.",
-  "shortdescription" : "Clockwork Hat",
+  "description" : "todo",
+  "shortdescription" : "Heiress Crown",
   "tooltipKind" : "armor",
   "maleFrames" : "head.png",
   "femaleFrames" : "head.png",
@@ -36,8 +36,8 @@
   ],
   "itemTags" : [ "tier6armour" ],
   "colorOptions" : [
-    // RED
-    { "ffca8a" : "f4988c", "e0975c" : "d93a3a", "a85636" : "932625", "6f2919" : "601119" },
+    // FUCHSIA
+    { "ffca8a" : "F35AA7", "e0975c" : "D33987", "a85636" : "B31967", "6f2919" : "890045" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY

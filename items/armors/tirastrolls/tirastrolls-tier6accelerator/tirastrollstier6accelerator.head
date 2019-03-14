@@ -6,7 +6,7 @@
   "rarity" : "Legendary",
   "category" : "headarmour",
   "description" : "Whether under the pressure of a deep sea or the heavens' scorching rays, these cool goggles just can't be pierced.",
-  "shortdescription" : "Seadweller's Goggles",
+  "shortdescription" : "Seadweller Goggles",
   "tooltipKind" : "armor",
   "maleFrames" : "head.png",
   "femaleFrames" : "head.png",
@@ -36,11 +36,8 @@
   ],
   "itemTags" : [ "tier6armour" ],
   "colorOptions" : [
-       // violet
-       { "ffca8a": "CF64CFf1",
-        "e0975c": "AF45AFf1",
-        "a85636": "8F248Ff1",
-        "6f2919": "6E036Ef1" },
+    // VIOLET
+	{ "ffca8a" : "CF64CFf1", "e0975c" : "AF45AFf1", "a85636" : "8F248Ff1", "6f2919" : "6E036Ef1" },
     // BLACK
     { "ffca8a" : "838383f1", "e0975c" : "555555f1", "a85636" : "383838f1", "6f2919" : "151515f1" },
     // GREY

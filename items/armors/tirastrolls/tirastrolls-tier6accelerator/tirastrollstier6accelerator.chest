@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Legendary",
   "category" : "chestarmour",
-  "description" : "Despite being extremely heavy, this armor can move swiftly through bodies of liquid thanks to the paddle-like pieces adorning it’s sleeves.",
-  "shortdescription" : "Seadweller's Chestpiece",
+  "description" : "Despite being extremely heavy, this armor can move swiftly through bodies of liquid thanks to the paddle-like pieces adorning its sleeves.",
+  "shortdescription" : "Seadweller Chestpiece",
   "tooltipKind" : "armor",
   "maleFrames" : {
     "body" : "chestm.png",
@@ -43,11 +43,8 @@
   ],
   "itemTags" : [ "tier6armour" ],
   "colorOptions" : [
-    // violet
-    { "ffca8a": "CF64CF",
-      "e0975c": "AF45AF",
-      "a85636": "8F248F",
-      "6f2919": "6E036E" },
+    // VIOLET
+	{ "ffca8a" : "CF64CF", "e0975c" : "AF45AF", "a85636" : "8F248F", "6f2919" : "6E036E" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY

@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Legendary",
   "category" : "headarmour",
-  "description" : "A sturdy wrangler's hat, with reinforced facial protection.",
-  "shortdescription" : "Wrangler's Hat",
+  "description" : "Repurposed and modified shell of an Imperial Drone. A symbol of status, given to the rare troll who can precisely command drone fleets in invasions requiring advanced strategy.",
+  "shortdescription" : "Husk Skull",
   "tooltipKind" : "armor",
   "maleFrames" : "head.png",
   "femaleFrames" : "head.png",
@@ -36,8 +36,8 @@
   ],
   "itemTags" : [ "tier6armour" ],
   "colorOptions" : [
-    // BLACK
-    { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
+    // IMPERIAL
+    { "ffca8a" : "ff4040", "e0975c" : "d91515", "a85636" : "8c0707", "6f2919" : "660000" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY

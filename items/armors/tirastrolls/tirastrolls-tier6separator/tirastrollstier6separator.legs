@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Legendary",
   "category" : "legarmour",
-  "description" : "Wrangler's pants, for the hardy Wrangler.",
-  "shortdescription" : "Wrangler's Pants",
+  "description" : "Repurposed and modified shell of an Imperial Drone. Despite the immense weight of these greaves, movement isn't hindered in the slightest.",
+  "shortdescription" : "Husk Legs",
   "tooltipKind" : "armor",
   "maleFrames" : "pants.png",
   "femaleFrames" : "pants.png",
@@ -35,8 +35,8 @@
   ],
   "itemTags" : [ "tier6armour" ],
   "colorOptions" : [
-    // BLACK
-    { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
+    // IMPERIAL
+    { "ffca8a" : "ff4040", "e0975c" : "d91515", "a85636" : "8c0707", "6f2919" : "660000" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY

@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Legendary",
   "category" : "chestarmour",
-  "description" : "This reinforced chestplate could take on a capricoat.",
-  "shortdescription" : "Wrangler's Plate",
+  "description" : "Repurposed and modified shell of an Imperial Drone. Being charged by this cuirass is like being hit by a bulldozer covered in toothbeasts launched by a cannon.",
+  "shortdescription" : "Husk Cage",
   "tooltipKind" : "armor",
   "maleFrames" : {
     "body" : "chest.png",
@@ -43,8 +43,8 @@
   ],
   "itemTags" : [ "tier6armour" ],
   "colorOptions" : [
-    // BLACK
-    { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
+    // IMPERIAL
+    { "ffca8a" : "ff4040", "e0975c" : "d91515", "a85636" : "8c0707", "6f2919" : "660000" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY

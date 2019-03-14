@@ -5,11 +5,11 @@
   "maxStack" : 1,
   "rarity" : "Legendary",
   "category" : "legarmour",
-  "description" : "Clockwork trousers - so you always march in time.",
-  "shortdescription" : "Clockwork Trousers",
+  "description" : "todo",
+  "shortdescription" : "Heiress Sabatons",
   "tooltipKind" : "armor",
   "maleFrames" : "pants.png",
-  "femaleFrames" : "pants.png",
+  "femaleFrames" : "pantsf.png",
   "level" : 6,
   "leveledStatusEffects" : [
     {
@@ -35,8 +35,8 @@
   ],
   "itemTags" : [ "tier6armour" ],
   "colorOptions" : [
-    // RED
-    { "ffca8a" : "f4988c", "e0975c" : "d93a3a", "a85636" : "932625", "6f2919" : "601119" },
+    // FUCHSIA
+    { "ffca8a" : "F35AA7", "e0975c" : "D33987", "a85636" : "B31967", "6f2919" : "890045" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY
