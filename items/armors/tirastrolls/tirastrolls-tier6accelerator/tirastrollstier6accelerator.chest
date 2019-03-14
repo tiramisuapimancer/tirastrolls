@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Legendary",
   "category" : "chestarmour",
-  "description" : "Despite being extremely heavy, this armor can move swiftly through bodies of liquid thanks to the paddle-like pieces adorning its sleeves.",
+  "description" : "This armor can move swiftly through bodies of liquid thanks to the paddle-like pieces adorning its sleeves.",
   "shortdescription" : "Seadweller Chestpiece",
   "tooltipKind" : "armor",
   "maleFrames" : {
