@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Legendary",
   "category" : "chestarmour",
-  "description" : "todo",
-  "shortdescription" : "Heiress Cuirass",
+  "description" : "Intricately designed armor - it shields vital organs but leaves certain points of articulation bare or covered by flexible material.",
+  "shortdescription" : "Tyrian Cuirass",
   "tooltipKind" : "armor",
   "maleFrames" : {
     "body" : "chestm.png",
