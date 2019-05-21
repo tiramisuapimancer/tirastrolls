@@ -1,26 +1,28 @@
 {
-  "itemName" : "tt_beesechurger",
+  "itemName" : "tt_jpab",
   "rarity" : "Rare",
-  "price" : 475,
+  "price" : 312,
   "category" : "preparedFood",
-  "inventoryIcon" : "beesechurger.png",
-  "description" : "Trolls make some really weird sandwiches..",
-  "shortdescription" : "Beesechurger",
+  "inventoryIcon" : "jpab.png",
+  "description" : "Don't worry about where the Jeanut Putter came from! Just don't!",
+  "shortdescription" : "Jeanut Putter And Belly",
 
-
-  "learnBlueprintsOnPickup" : [ "tt_jpab" ],
 
   "effects" : [ [
     {
         "effect" : "maxhealthscalingboostfood",
-        "duration" : 428
+        "duration" : 390
     },
     {
         "effect" : "maxenergyscalingboostfood",
-        "duration" : 428
-    }
+        "duration" : 390
+    },
+    {
+      "effect" : "runboostfood",
+      "duration" : 390
+  }
   ] ],
-  "foodValue" : 95,
+  "foodValue" : 99,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
   "maxStack" : 1,
