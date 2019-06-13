@@ -1,0 +1,25 @@
+{
+  "itemName" : "tt_oblongmeatproduct",
+  "rarity" : "Legendary",
+  "price" : 420,
+  "category" : "preparedFood",
+  "inventoryIcon" : "oblongmeatproduct.png",
+  "description" : "A completely nonsuspicious length of meat, prepared troll-style.",
+  "shortdescription" : "Oblong Meat Product",
+
+  "effects" : [ [
+    {
+        "effect" : "tt_coolbouncy",
+        "duration" : 1000
+    }
+  ] ],
+  "foodValue" : 40,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 10,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name" : "tt_coolbouncy",
+  "effectConfig" : {},
+  "defaultDuration" : 1.0,
+
+  "scripts" : [
+    "tt_coolbouncy.lua"
+  ],
+
+  "label" : "Bouncy but like there's no border",
+  "icon" : "/interface/statuses/bounce.png"
+}

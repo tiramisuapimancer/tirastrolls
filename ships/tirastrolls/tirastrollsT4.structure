@@ -9,12 +9,12 @@
   "backgroundOverlays" : [
     {
       "image" : "tirastrollsT4.png",
-      "position" : [15, 10],
+      "position" : [21, 14],
       "fullbright" : true
     },
     {
       "image" : "tirastrollsT4lit.png",
-      "position" : [15, 10]
+      "position" : [21, 14]
     }
   ],
 
