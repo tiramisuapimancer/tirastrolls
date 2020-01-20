@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Legendary",
   "category" : "headarmour",
-  "description" : "Repurposed and modified shell of an Imperial Drone. A symbol of status, given to the rare troll who can precisely command drone fleets in invasions requiring advanced strategy.",
+  "description" : "Repurposed Imperial Drone shell. Given to the rare few who can command fleets with advanced strategy.",
   "shortdescription" : "Husk Skull",
   "tooltipKind" : "armor",
   "maleFrames" : "head.png",

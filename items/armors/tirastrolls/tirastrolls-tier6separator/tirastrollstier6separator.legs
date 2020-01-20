@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Legendary",
   "category" : "legarmour",
-  "description" : "Repurposed and modified shell of an Imperial Drone. Despite the immense weight of these greaves, movement isn't hindered in the slightest.",
+  "description" : "Repurposed Imperial Drone shell. Despite the immense weight of these greaves, movement isn't hindered.",
   "shortdescription" : "Husk Legs",
   "tooltipKind" : "armor",
   "maleFrames" : "pants.png",

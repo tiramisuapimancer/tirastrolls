@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Legendary",
   "category" : "chestarmour",
-  "description" : "Repurposed and modified shell of an Imperial Drone. Being charged by this cuirass is like being hit by a bulldozer covered in toothbeasts launched by a cannon.",
+  "description" : "Repurposed Imperial Drone shell. Being charged by this cuirass is like being hit by a truck.",
   "shortdescription" : "Husk Cage",
   "tooltipKind" : "armor",
   "maleFrames" : {
